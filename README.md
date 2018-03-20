@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+- check status
+- add files and new changes to track
+- commit/discard changes
+- test
