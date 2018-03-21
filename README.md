@@ -28,3 +28,15 @@ Things you may want to cover:
 - add files and new changes to track
 - commit/discard changes
 - test
+- 
+
+-Visit root pages
+-click on new articles
+-fill in title
+-fill in body
+-create articles
+
+Expectations
+
+-Article has been created
+-articles path
